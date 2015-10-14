@@ -178,6 +178,7 @@
 		59CAF4511940A3F8001250A5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = synboo;
 				TargetAttributes = {

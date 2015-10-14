@@ -16,6 +16,8 @@ enum LayoutType: Int
 
 class ViewController: UICollectionViewController
 {
+    
+    
     var photos:Dictionary<String, String>[] = []
     var layoutType = LayoutType.Grid
     
